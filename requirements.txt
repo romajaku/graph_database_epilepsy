@@ -1,0 +1,4 @@
+pandas==1.5.3
+numpy==1.22.1
+neo4j==5.4.0
+matplotlib==3.7.0
